@@ -6,12 +6,11 @@
 
 ## 🚀 About Me
 
-- 🚀 **Full Stack Web Developer** who builds complete end-to-end solutions
-- 🌟 Proficient in **JavaScript**, **Node.js**, **Next.js**, and **Express.js**
-- 🎯 Currently mastering **Advanced Backend**, **DevOps** and **System Design**
-- 💡 Love architecting scalable systems and crafting seamless user experiences
-- 📫 How to reach me **maheshddivate@gmail.com**
-- 🤝 Always eager to connect and discuss the latest in tech!
+- 🌟 Proficient in JavaScript, Node.js, Next.js, and Express.js for full-stack development
+- 🚀 Currently deep-diving into Advanced Backend, DevOps, and System Design
+- 🔍 Excited about building scalable systems and seamless digital experiences
+- 💬 Always open to learning, sharing, and tech talk!
+- 📫 Reach me at maheshddivate@gmail.com
 
 ## 🛠️ Tech Stack
 
