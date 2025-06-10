@@ -8,7 +8,7 @@
 
 - 🌟 Proficient in JavaScript, Node.js, Next.js, and Express.js for full-stack development
 - 🚀 Currently deep-diving into Advanced Backend, DevOps, and System Design
-- 🔍 Excited about building scalable systems and seamless digital experiences
+- 🔍 Excited about building scalable systems ,seamless digital experiences and future ventures into AI/ML.
 - 💬 Always open to learning, sharing, and tech talk!
 - 📫 Reach me at maheshddivate@gmail.com
 
