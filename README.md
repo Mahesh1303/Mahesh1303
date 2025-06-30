@@ -7,6 +7,7 @@
 ## 🚀 About Me
 
 - 🌟 Proficient in JavaScript, Node.js, Next.js, and Express.js for full-stack development
+- 🌐 Open source enthusiast. BTW I use Arch Linux 😄
 - 🚀 Currently deep-diving into Advanced Backend, DevOps, and System Design
 - 🔍 Excited about building scalable systems ,seamless digital experiences and future ventures into AI/ML.
 - 💬 Always open to learning, sharing, and tech talk!
