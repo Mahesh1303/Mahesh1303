@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🌟 Proficient in JavaScript for full-stack development
+- 🌟 Proficient in JavaScript & Typescript for full-stack development
 - 🌐 Open source enthusiast. BTW I use Arch Linux 😄
 - 🚀 Currently deep-diving into Advanced Backend, DevOps, and System Design
 - 🔍 Excited about building scalable systems ,seamless digital experiences and future ventures into AI/ML.
