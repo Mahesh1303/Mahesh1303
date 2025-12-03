@@ -8,7 +8,7 @@
 
 - 🌟 Proficient in JavaScript & Typescript for full-stack development
 - 🌐 Open source enthusiast. BTW I use Arch Linux 😄
-- 🚀 Currently deep-diving into Advanced Backend, DevOps, and System Design
+- 🚀 Currently deep-diving into Golang based Technologies and Devops
 - 🔍 Excited about building scalable systems ,seamless digital experiences and future ventures into AI/ML.
 - 💬 Always open to learning, sharing, and tech talk!
 - 📫 Reach me at maheshddivate@gmail.com
