@@ -252,5 +252,5 @@ const currentFocus = {
   
   <h3>💬 Open to full-time opportunities and collaboration on AI/ML projects</h3>
   
-  ![Visitor Count](https://profile-counter.glitch.me/mahesh1303/count.svg)
+  <img src="https://komarev.com/ghpvc/?username=mahesh1303&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
