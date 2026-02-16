@@ -39,9 +39,9 @@ Currently seeking **full-time roles** where I can own features from design to de
 
 
 📍 **Pune, India** 🇮🇳  
-🎓 **BE Computer Engineering**  
+<!-- 🎓 **BE Computer Engineering**  
 Savitribai Phule Pune University  
-`2022 - 2026`
+`2022 - 2026` -->
 
 💼 **Open to Opportunities**
 
