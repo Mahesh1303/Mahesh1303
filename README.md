@@ -1,256 +1,223 @@
-<div align="center">
-  
-# Hi 👋, I'm Mahesh Divate
+# Hi, I'm Mahesh Divate! 👋
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+**Full-Stack Engineer specializing in TypeScript, Go, and AI-Driven Applications**
 
-### Full-Stack Engineer • TypeScript/Go • AI-Driven Applications
+I build production-ready AI agents, scalable backend systems, and end-to-end web applications. My work spans conversational AI (Google ADK, MCP, LangChain), high-performance APIs (Go Fiber, Bun, Cloudflare Workers), and full-stack development from MVP to production.
 
-<p>
-  <img src="https://img.icons8.com/color/48/000000/marker.png" width="20"/> Pune, India 🇮🇳
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/available-updates.png" width="20"/> Open to Opportunities
-</p>
+Currently seeking **full-time roles** where I can own features from design to deployment, work on AI-powered products, and ship fast with clean, maintainable code.
 
+**Best fit:** AI agents, fintech tools, developer platforms, or SaaS products at fast-moving startups.
+
+<div align="left">
+  <a href="mailto:maheshddivate@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mahesh-divate">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/mahesh1561332">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mahesh1303">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mahesh1303&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
-<br/>
+</td>
+<td align="center" valign="center" width="40%">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+performant%2C+scalable+web+applications;Specializing+in+TypeScript%2C+Go%2C+and+Bun;AI-powered+SaaS+%7C+Financial+Tools+%7C+Recruitment+Systems" alt="Typing SVG" />
-</div>
+<img src="YOUR_IMAGE_URL_HERE" width="200" alt="Mahesh Divate" style="border-radius: 50%;" />
 
-<br/>
+<br/><br/>
 
-## 💼 What I Do
+📍 **Pune, India** 🇮🇳  
+🎓 **BE Computer Engineering**  
+Savitribai Phule Pune University  
+`2022 - 2026`
 
-<div align="center">
+💼 **Open to Opportunities**
 
-| 🤖 AI Engineering | ⚡ Backend Systems | 🚀 Full-Stack Dev |
-| :--- | :--- | :--- |
-| Building production-ready conversational agents using <br> **Google ADK • MCP • LangChain** | Designing high-performance APIs with <br> **Go (Fiber) • Bun • Cloudflare** | Shipping scalable end-to-end products <br> from **MVP → Production** |
+</td>
+  </tr>
+</table>
 
-</div>
-<br/>
+---
 
-## 🛠️ Tech Stack
+## 🛠 Technical Skills
 
 <table>
 <tr>
-<td width="220"><strong>Languages & Runtime</strong></td>
-<td>
-<div style="display:flex; gap:14px; align-items:center;">
-<img height="36" src="https://skillicons.dev/icons?i=ts"/>
-<img height="36" src="https://skillicons.dev/icons?i=js"/>
-<img height="36" src="https://skillicons.dev/icons?i=go"/>
-<img height="36" src="https://skillicons.dev/icons?i=python"/>
-<img height="36" src="https://skillicons.dev/icons?i=bun"/>
-<img height="36" src="https://skillicons.dev/icons?i=nodejs"/>
-</div>
-</td>
+  <!-- LEFT: Skill Icons -->
+  <td valign="center" align="center" width="500">
+    <img src="https://skillicons.dev/icons?i=ts,js,go,python,bun,nodejs,react,nextjs,redux,tailwind,express,hono,cloudflare,postgres,mongodb,redis,prisma,docker,kubernetes,git,github&perline=7&theme=dark" />
+  </td>
+  
+  <!-- RIGHT: GitHub Stats -->
+  <td align="center" valign="center" width="500">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahesh1303&count_private=true&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
+    <br/><br/>
+    <img src="https://streak-stats.demolab.com?user=mahesh1303&theme=radical&hide_border=true&border_radius=10" />
+  </td>
 </tr>
+</table>
 
+---
+
+## 💼 What I Do
+
+<table>
 <tr>
-<td><strong>Frontend</strong></td>
-<td>
-<div style="display:flex; gap:14px; align-items:center;">
-<img height="36" src="https://skillicons.dev/icons?i=react"/>
-<img height="36" src="https://skillicons.dev/icons?i=nextjs"/>
-<img height="36" src="https://skillicons.dev/icons?i=redux"/>
-<img height="36" src="https://skillicons.dev/icons?i=tailwind"/>
-</div>
+<td align="center" width="33%">
+
+### 🤖 AI Engineering
+Building production-ready conversational agents using **Google ADK**, **MCP**, and **LangChain**
+
 </td>
-</tr>
+<td align="center" width="33%">
 
-<tr>
-<td><strong>Backend & APIs</strong></td>
-<td>
-<div style="display:flex; gap:14px; align-items:center;">
-<img height="36" src="https://skillicons.dev/icons?i=express"/>
-<img height="36" src="https://skillicons.dev/icons?i=hono"/>
-<img height="36" src="https://skillicons.dev/icons?i=cloudflare"/>
-</div>
+### ⚡ Backend Systems
+Designing high-performance APIs with **Go (Fiber)**, **Bun**, and **Cloudflare Workers**
+
 </td>
-</tr>
+<td align="center" width="33%">
 
-<tr>
-<td><strong>Databases</strong></td>
-<td>
-<div style="display:flex; gap:14px; align-items:center;">
-<img height="36" src="https://skillicons.dev/icons?i=postgres"/>
-<img height="36" src="https://skillicons.dev/icons?i=mongodb"/>
-<img height="36" src="https://skillicons.dev/icons?i=redis"/>
-<img height="36" src="https://skillicons.dev/icons?i=prisma"/>
-</div>
-</td>
-</tr>
+### 🚀 Full-Stack Development
+Shipping scalable end-to-end products from **MVP → Production**
 
-<tr>
-<td><strong>DevOps & Tools</strong></td>
-<td>
-<div style="display:flex; gap:14px; align-items:center;">
-<img height="36" src="https://skillicons.dev/icons?i=docker"/>
-<img height="36" src="https://skillicons.dev/icons?i=kubernetes"/>
-<img height="36" src="https://skillicons.dev/icons?i=git"/>
-<img height="36" src="https://skillicons.dev/icons?i=github"/>
-</div>
 </td>
 </tr>
 </table>
 
-
-<br/>
+---
 
 ## 🚀 Featured Projects
 
 <details close>
 <summary>
-  <b>🔓 Untangle – AI-Powered Legal Document Simplifier</b> 
-  &nbsp; 
-  <a href="https://untangle.rookie.house/">
-    Try Untangle
-  </a>
+  <b>🔓 Untangle – AI-Powered Legal Document Simplifier</b>
+  &nbsp;&nbsp;
+  <a href="https://untangle.rookie.house/">Try Untangle →</a>
 </summary>
 <br/>
 
 > Making legal jargon accessible through conversational AI
 
-
-**Tech Stack:**  
-`Cloudflare Workers` `Hono` `Next.js` `TypeScript` `Google ADK` `CRXJS`
+**Tech Stack:** `Cloudflare Workers` `Hono` `Next.js` `TypeScript` `Google ADK` `CRXJS`
 
 **My Contributions:**
-- ⚡ Architected and built the full-stack AI platform with the team
-- 🔌 Developed browser extension and web app with secure backend APIs on Cloudflare Workers
-- 🤖 Implemented multi-agent AI system using Gemini models for summarization, clause extraction, and legal risk analysis
-- 🔐 Designed secure document upload pipeline with parsing services and AI execution layer
+- ⚡ Architected full-stack AI platform with secure backend APIs on Cloudflare Workers
+- 🔌 Developed browser extension and web app for seamless document analysis
+- 🤖 Implemented multi-agent AI system using Gemini for summarization, clause extraction, and legal risk analysis
+- 🔐 Designed secure document upload pipeline with parsing and AI execution layer
 
-**Status:** `Collaborative project` • `In active development`
+**Status:** `Collaborative Project` • `Active Development`
 
 </details>
 
-<details open>
+---
+
+<details close>
 <summary>
-  <b>💰 HIFI (Hi Finance Paisa Bolta Hai)</b>
- &nbsp; 
-  <a href="https://web.hifi.click">
-    Try HiFi
-  </a>
+  <b>💰 HiFi – Conversational AI Financial Assistant</b>
+  &nbsp;&nbsp;
+  <a href="https://web.hifi.click">Try HiFi →</a>
 </summary>
 <br/>
 
-> Conversational AI financial assistant for trading and investment analysis
+> AI-powered trading and investment analysis platform
 
-**Tech Stack:**  
-`Go Fiber` `PostgreSQL` `Google Agent Dev Kit` `FI MCP`
+**Tech Stack:** `Go Fiber` `PostgreSQL` `Google Agent Dev Kit` `FI MCP`
 
 **My Contributions:**
 - 🏗️ Built backend infrastructure in Go with Fiber/FastHTTP for scalable data handling
-- ⚡ Implemented concurrent processing using Goroutines for real-time financial data operations
+- ⚡ Implemented concurrent processing using Goroutines for real-time financial operations
 - 🤖 Integrated multi-agent workflows using Google ADK and FI MCP tools
-- 📊 Designed system architecture for analyzing trading data from platforms like Zerodha/Kite
+- 📊 Designed architecture for analyzing trading data from Zerodha/Kite platforms
 
 **Role:** `Backend Development` • `AI Integration`
 
 </details>
 
+---
 
 <details close>
 <summary>
-  <b>D-Agent (Decentralized Agents)</b>
- &nbsp; 
-  <a href="https://www.dagent.dev/">
-    Try D-Agent
-  </a>
+  <b>🤖 D-Agent – Decentralized Agent Marketplace</b>
+  &nbsp;&nbsp;
+  <a href="https://www.dagent.dev/">Try D-Agent →</a>
 </summary>
 <br/>
 
-> A platform to Monetize your AI-Agents 
+> Platform to monetize AI agents using blockchain technology
 
-**Tech Stack:**  
-`Python` `PostgreSQL` `A2A protocol` `Blockchain`
+**Tech Stack:** `Python` `FastAPI` `Next.js` `PostgreSQL` `A2A Protocol` `Blockchain`
 
 **My Contributions:**
-- 🏗️ Built backend infrastructure in Python with FastApi 
-- ⚡ Implemented Frontend With NextJs , used Ethers And Wagmi for SmartContract Integration
-- 🤖 Implemented BetterAuth and Secure Authentication flow 
+- 🏗️ Built backend infrastructure with FastAPI for agent management
+- ⚡ Implemented frontend with Next.js, integrated Ethers & Wagmi for smart contracts
+- 🔐 Developed secure authentication flow using BetterAuth
 
-
-**Role:** `Backend Development` • `AI Integration` • `Frontend Development`   
+**Role:** `Full-Stack Development` • `Blockchain Integration`
 
 </details>
 
-
-<br/>
+---
 
 ## 💼 Experience
 
-**Full-Stack Intern** @ **Next-Gen QuickHire** `Jan 2025 - Jul 2025`
-```
-✓ Built MVPs with clean database schemas and modern TypeScript stack
-✓ Rapid prototyping from product concepts to functional modules
-```
+**Full-Stack Intern** @ **Next-Gen QuickHire**  
+`Jan 2025 - Jul 2025`
 
-<br/>
+- Built MVPs with clean database schemas using modern TypeScript stack
+- Rapid prototyping from product concepts to functional modules
+- Collaborated on recruitment system features and workflow automation
+
+---
 
 ## 💡 Currently Exploring
+
 ```typescript
 const currentFocus = {
-  ai: ["Advanced AI agent architectures","Inference API","Fine-tuning LLMs"],
-  backend: ["Concurrent programming patterns","Scaling","System Fallbacks"],
-  architecture: ["System design for high-scale applications"],
-  tooling: ["DevOps workflows","Container Orchestration"]
+  ai: [
+    "Advanced AI agent architectures",
+    "Fine-tuning LLMs with LoRA",
+    "Building custom MCP servers"
+  ],
+  backend: [
+    "Concurrent programming patterns in Go",
+    "System design for high-scale applications",
+    "Distributed caching strategies"
+  ],
+  devops: [
+    "Container orchestration with Kubernetes",
+    "CI/CD pipeline optimization"
+  ]
 };
 ```
 
-<br/>
+---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahesh1303&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-<br/>
+## 📊 Recent Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh1303&theme=react-dark&hide_border=true" alt="Activity Graph">
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh1303&theme=react-dark&hide_border=true&border_radius=10" alt="Activity Graph">
 </div>
 
-
-<br/>
-
-## 🎓 Education
-
-**Bachelor of Engineering in Computer Engineering**  
-📍 Savitribai Phule Pune University • `2022-2026`
-
-<br/>
-
-## 📫 Let's Connect
+---
 
 <div align="center">
-  <a href="mailto:maheshddivate@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mahesh-divate">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/mahesh1561332">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" alt="Twitter"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Mahesh1303">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" alt="GitHub"/>
-  </a>
-</div>
 
-<br/>
+### 💬 Open to collaboration on AI/ML projects and full-time opportunities
 
-<div align="center">
-  
-  <h3>💬 Open to full-time opportunities and collaboration on AI/ML projects</h3>
-  
-  <img src="https://komarev.com/ghpvc/?username=mahesh1303&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+**Let's build something amazing together!**
+
 </div>
