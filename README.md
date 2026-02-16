@@ -37,7 +37,6 @@ Currently seeking **full-time roles** where I can own features from design to de
 
 <img src="/assets/GitImg.png" width="200" alt="Mahesh Divate"  />
 
-<br/><br/>
 
 📍 **Pune, India** 🇮🇳  
 🎓 **BE Computer Engineering**  
