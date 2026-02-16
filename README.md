@@ -35,7 +35,7 @@ Currently seeking **full-time roles** where I can own features from design to de
 </td>
 <td align="center" valign="center" width="40%">
 
-<img src="/assets/GitImg.jpeg" width="200" alt="Mahesh Divate"  />
+<img src="/assets/GitImg.png" width="200" alt="Mahesh Divate"  />
 
 <br/><br/>
 
