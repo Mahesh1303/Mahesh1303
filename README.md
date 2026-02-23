@@ -54,19 +54,11 @@ Savitribai Phule Pune University
 ## 🛠 Technical Skills
 
 <table>
-<tr>
   <!-- LEFT: Skill Icons -->
-  <td valign="center" align="center" width="500">
-    <img src="https://skillicons.dev/icons?i=ts,js,go,python,bun,nodejs,react,nextjs,redux,tailwind,express,hono,cloudflare,postgres,mongodb,redis,prisma,docker,kubernetes,git,github&perline=7&theme=dark" />
-  </td>
+    <img src="https://skillicons.dev/icons?i=ts,js,go,python,bun,nodejs,react,nextjs,redux,tailwind,express,cloudflare,postgres,mongodb,redis,prisma,docker,kubernetes,git,github&perline=15&theme=dark" />
   
   <!-- RIGHT: GitHub Stats -->
-  <td align="center" valign="center" width="500">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahesh1303&count_private=true&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
-    <br/><br/>
-    <img src="https://streak-stats.demolab.com?user=mahesh1303&theme=radical&hide_border=true&border_radius=10" />
-  </td>
-</tr>
+ 
 </table>
 
 ---
